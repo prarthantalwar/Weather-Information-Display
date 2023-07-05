@@ -17,7 +17,7 @@ The Weather Information Display is a Python application that allows users to ret
 
 ## Usage
 
-1. Run the script: `python weather_information_display.py`
+1. Run the script: `python weather.py`
 2. Enter the name of a city when prompted.
 3. Enter the country name when prompted.
 4. The script will retrieve the weather information and display it in a user-friendly format.
