@@ -24,7 +24,7 @@ The Weather Information Display is a Python application that allows users to ret
 
 ## API Key
 
-The Weather Information Display uses the Weatherstack API to fetch weather data. You will need to sign up for a free API access key at [https://weatherstack.com](https://weatherstack.com) and replace the `ACCESS_KEY` in the `weather_information_display.py` file with your own key.
+The Weather Information Display uses the Weatherstack API to fetch weather data. You will need to sign up for a free API access key at [https://weatherstack.com](https://weatherstack.com) and replace the `ACCESS_KEY` in the `weather.py` file with your own key.
 
 ## Contributing
 
